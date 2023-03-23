@@ -22,6 +22,6 @@
 
 * [🏛 Roadmap](about-the-project/roadmap.md)
 * [🏛 FairLaunch](about-the-project/fairlaunch.md)
-* [🏛 Social Media](about-the-project/social-media.md)
 * [🏛 Security](about-the-project/security.md)
+* [🏛 Social Media](about-the-project/social-media.md)
 * [🏛 Team](about-the-project/team.md)
