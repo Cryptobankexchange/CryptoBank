@@ -3,7 +3,7 @@ description: >-
   CBANK is a decentralized exchange that enables trading without registration or
   owning any account, providing a safe and easy trading experience through web3
   wallets. The platform's token is CBANK.
-cover: ../.gitbook/assets/photo_2023-03-23 15.38.06.jpeg
+cover: broken-reference
 coverY: 0
 ---
 

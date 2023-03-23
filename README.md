@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/photo_2023-03-23 15.38.06.jpeg
+cover: .gitbook/assets/gitbooknew.png
 coverY: 0
 ---
 
@@ -15,4 +15,4 @@ _The Cryptobank is a cutting-edge decentralized exchange that leverages the powe
 
 _At the heart of Cryptobank lies a unique pool of assets that receives market maker liquidity fees, swap rates, and leveraged trading fees. This pool ensures that there is always sufficient liquidity for traders to execute their transactions, regardless of market conditions. Additionally, dynamic pricing is supported by Oracles and a price aggregator of major stock exchanges, ensuring that Cryptobank's trading prices are always accurate and up-to-date._
 
-_As a DeFi project built on BSC SMART CHAIN, Cryptobank utilizes advanced machine learning technology to analyze vast amounts of data and forecast market trends. By doing so, Cryptobank streamlines trading decisions and ensures that traders can make informed decisions when investing in their favorite cryptocurrencies._
+_As a DeFi project built on Arbitrum, Cryptobank utilizes advanced machine learning technology to analyze vast amounts of data and forecast market trends. By doing so, Cryptobank streamlines trading decisions and ensures that traders can make informed decisions when investing in their favorite cryptocurrencies._
