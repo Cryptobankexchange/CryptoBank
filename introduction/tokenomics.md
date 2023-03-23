@@ -5,13 +5,16 @@ coverY: 0
 
 # 🏛 Tokenomics
 
-#### Completely tax-free on purchases and sales
+_Crypto Bank will have a transaction fee of only 1%, which can be a great advantage for users, as this fee is considered relatively low compared to other payment options._
 
-_A fee-free transaction project has several benefits. First, it eliminates the need for users to pay fees when buying or selling goods and services on the platform, which can lead to significant cost savings over time. This makes CBEK Exchange more attractive to users looking to save money on transaction fees._
+#### Some of the advantages that this project can offer include:
 
-_Second, free transactions can lead to an increase in transaction volume on CBEK Exchange. When users are not charged fees on their transactions, they may be more likely to make purchases or sales, leading to more activity on CBEK Exchange. This increased activity can also lead to greater liquidity, which can make buying and selling assets on CBEK Exchange easier._
+* _Lower costs: The 1% transaction fee can be significantly lower than the fees charged by traditional financial services, such as banks. This can help reduce the overall cost of transactions and make Crypto Bank a more affordable option for people._
+* _Faster processing: Unlike many traditional financial services, cryptocurrency transactions are usually processed in a matter of minutes. This can be particularly useful for urgent transactions that need to be completed quickly._
+* _Greater security: Cryptocurrency transactions are protected by advanced encryption technology and are generally more secure than traditional transactions. This can help reduce the risk of fraud and theft._
+* _Global access: Since cryptocurrencies are decentralized and not controlled by governments or traditional financial institutions, they can be used worldwide without restrictions. This can help make the Crypto Bank project an attractive option for people who do not have access to traditional banking services or who want to make international transactions._
 
-_Third, a fee-free transaction project can help level the playing field for smaller traders and investors. When fees are charged on transactions, they can disproportionately impact smaller traders who may not have the resources to absorb the cost of fees. By eliminating fees, smaller traders can compete on equal footing with larger traders, which can lead to a more diverse and decentralized user base on CBEK Exchange._
+_In summary, Crypto Bank with a 1% transaction fee can offer significant advantages over traditional financial services, including lower costs, faster processing, greater security, and global access. However, it is important to remember that all cryptocurrency transactions involve risks, and users should be aware of these risks before deciding to use Crypto Bank or any other cryptocurrency service._
 
 | CryptoBank - Exchange | CBEK                         |
 | --------------------- | ---------------------------- |
