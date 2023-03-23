@@ -1,5 +1,5 @@
 ---
-cover: broken-reference
+cover: ../.gitbook/assets/gitbooknew2.png
 coverY: 0
 ---
 
@@ -11,14 +11,14 @@ coverY: 0
 * [x] Website development v1
 * [x] Partnership engagement
 * [x] Whitepaper
-* [x] BNB Chain ecosystem engagement
+* [x] Arbitrum ecosystem engagement
 * [x] Audit and KYC on Pinksale
 * [ ] Mobile app
 
 ## **PHASE 2**
 
 * [x] Home referrals and lottery
-* [x] Partnership with BNB ecosystem projects (DeX, Oracles)
+* [x] Partnership with ARB ecosystem projects (DeX, Oracles)
 * [x] Fair launch on Pinksale
 * [x] Pancakeswap listing
 * [x] Listing on top DEXs

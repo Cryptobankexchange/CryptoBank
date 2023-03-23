@@ -1,9 +1,9 @@
 ---
 description: >-
-  CBANK is a decentralized exchange that enables trading without registration or
+  CBEK is a decentralized exchange that enables trading without registration or
   owning any account, providing a safe and easy trading experience through web3
-  wallets. The platform's token is CBANK.
-cover: broken-reference
+  wallets. The platform's token is CBEK.
+cover: ../.gitbook/assets/gitbooknew3.png
 coverY: 0
 ---
 
@@ -31,7 +31,7 @@ Click on "Long" or "Short" to open a leverage position on the desired side.
 
 &#x20;
 
-Enter the trade size, equal to margin x leverage. For instance, a trade size of 30 BSC at 30x leverage will use 1 BSC from your wallet's actual balance (margin).
+Enter the trade size, equal to margin x leverage. For instance, a trade size of 30 ARB at 30x leverage will use 1 ARB from your wallet's actual balance (margin).
 
 &#x20;
 
@@ -43,13 +43,13 @@ Enter the trade size, equal to margin x leverage. For instance, a trade size of 
 
 **Profit & Loss**&#x20;
 
-Suppose you opened a 3 BSC position at 2000. If the market rises by 1%, your P/L will be:
+Suppose you opened a 3 ARB position at 2000. If the market rises by 1%, your P/L will be:
 
-3 BSC x 1% = 0.03 BSC
+3 ARB x 1% = 0.03 ARB
 
 If the market falls by 1%, your P/L will be:
 
-3 BSC x -1% = -0.03 BSC
+3 ARB x -1% = -0.03 ARB
 
 &#x20;
 
@@ -59,11 +59,11 @@ If the market falls by 1%, your P/L will be:
 
 Example
 
-\-> You have a 70 BSC long on BTC-USD at 10x leverage (7 BSC margin).
+\-> You have a 70 ARB long on BTC-USD at 10x leverage (7 ARB margin).
 
-\-> You submit a 50 BSC long on BTC-USD at 5x leverage (10 BSC margin).
+\-> You submit a 50 ARB long on BTC-USD at 5x leverage (10 ARB margin).
 
-\-> Your new position is 85 BSC long on BTC-USD with 15 BSC margin, i.e., 8.5x leverage. You've successfully added margin and reduced the leverage of your position.
+\-> Your new position is 85 ARB long on BTC-USD with 15 ARB margin, i.e., 8.5x leverage. You've successfully added margin and reduced the leverage of your position.
 
 &#x20;
 

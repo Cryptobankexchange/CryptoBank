@@ -1,5 +1,5 @@
 ---
-cover: broken-reference
+cover: ../.gitbook/assets/gitbooknew3.png
 coverY: 0
 ---
 
@@ -15,8 +15,8 @@ _Staking coins eliminates the need for continuously purchasing expensive hardwar
 
 _Staking methods typically involve holding coins in a wallet or locking them in a smart contract (masternodes). Some coins introduce randomness to the staking and voting process to make it difficult for bad actors to manipulate outcomes. The process can be similar to a lottery, where the number of crypto coins held is equivalent to holding a given number of lottery tickets. Staking systems can also allow delegation, where individuals delegate their voting rights and earned income to a trusted party. Those delegates earn all the rewards for block validation and pay dividends to their loyal supporters for their vote._
 
-#### Staking CBANK
+#### Staking CBEK
 
-_Crypto Staking is a novel way to earn passive income in the crypto world. It enables users to lock their assets on our platform and receive rewards without having to sell their tokens. This allows them to earn a passive income while still owning their tokens. By locking tokens on our platform, users can receive rewards based on the staking duration and the number of token stakes. To participate in CBANK staking, users must first stake CBANK tokens on our linked crypto wallet. They can then send the tokens to a staking contract and lock them for a specified period. Once the staking platform locks the CBANK tokens, users begin earning rewards._
+_Crypto Staking is a novel way to earn passive income in the crypto world. It enables users to lock their assets on our platform and receive rewards without having to sell their tokens. This allows them to earn a passive income while still owning their tokens. By locking tokens on our platform, users can receive rewards based on the staking duration and the number of token stakes. To participate in CBEK staking, users must first stake CBEK tokens on our linked crypto wallet. They can then send the tokens to a staking contract and lock them for a specified period. Once the staking platform locks the CBEK tokens, users begin earning rewards._
 
-_As more people, particularly institutional investors, recognize the profitability and efficiency of the crypto market, staking is gradually becoming a popular way of earning passive income by simply staking coins in a wallet. Stake in the CBANK Hybrid Exchange and earn CBANK tokens as rewards. Due to the specific technical crypto knowledge and compliance requirements associated with staking cryptocurrencies, including those who lack technical knowledge of CBANK, staking and receiving rewards may seem daunting. In response to the growing demand for crypto staking, this is the perfect place to earn a passive income through staking._
+_As more people, particularly institutional investors, recognize the profitability and efficiency of the crypto market, staking is gradually becoming a popular way of earning passive income by simply staking coins in a wallet. Stake in the CBEK Hybrid Exchange and earn CBEK tokens as rewards. Due to the specific technical crypto knowledge and compliance requirements associated with staking cryptocurrencies, including those who lack technical knowledge of CBEK, staking and receiving rewards may seem daunting. In response to the growing demand for crypto staking, this is the perfect place to earn a passive income through staking._

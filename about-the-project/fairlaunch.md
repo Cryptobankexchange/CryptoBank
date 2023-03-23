@@ -1,11 +1,11 @@
 ---
-cover: broken-reference
+cover: ../.gitbook/assets/gitbooknew2.png
 coverY: 0
 ---
 
 # 🏛 FairLaunch
 
-CBANK t_oken price at launch**:**_
+CBEK t_oken price at launch**:**_
 
 * _Presale type: **Fairlaunch**_
 * _Platform: **PinkSale**_
