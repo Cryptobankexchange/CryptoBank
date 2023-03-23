@@ -36,3 +36,4 @@ _In summary, Crypto Bank with a 1% transaction fee can offer significant advanta
 | MARKETING           | 5,00%  |
 | FUTURE RELEASES     | 5,00%  |
 
+#### Transaction fees will be reverted to the staking pool to guarantee the rewards to our investors
