@@ -9,4 +9,4 @@ _Crypto Bank Hybrid Exchange places great importance on the safety and security 
 
 _Our commitment to security does not stop there. We also employ state-of-the-art encryption technology to protect our users' personal and financial information. We continuously monitor our systems for any suspicious activity, and our support team is always on hand to assist with any security-related issues._
 
-_At Crypto Ban Hybrid Exchange, we understand that security is paramount in the world of cryptocurrency. With the ever-present threat of hacks and cyberattacks, we are committed to providing our users with the peace of mind they deserve. Our dedication to security and transparency sets us apart from other exchanges, and we will continue to make it our top priority._
+_At Crypto Bank Hybrid Exchange, we understand that security is paramount in the world of cryptocurrency. With the ever-present threat of hacks and cyberattacks, we are committed to providing our users with the peace of mind they deserve. Our dedication to security and transparency sets us apart from other exchanges, and we will continue to make it our top priority._
