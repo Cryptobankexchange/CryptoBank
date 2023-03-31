@@ -18,7 +18,7 @@ coverY: 0
 ## **PHASE 2**
 
 * [x] Home referrals and lottery
-* [x] Partnership with ARB ecosystem projects (DeX, Oracles)
+* [x] Partnership with ETH ecosystem projects (DeX, Oracles)
 * [x] Fair launch on Pinksale
 * [x] Pancakeswap listing
 * [x] Listing on top DEXs

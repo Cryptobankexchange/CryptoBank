@@ -5,7 +5,7 @@
 * [🏛 CryptoBank - Hybrid Exchange](README.md)
 * [🏛 Perpetual Trading](introduction/perpetual-trading.md)
 * [🏛 Layer 2](introduction/layer-2.md)
-* [🏛 Token CBEK](introduction/token-cbek.md)
+* [🏛 Token CBEX](introduction/token-cbex.md)
 * [🏛 Tokenomics](introduction/tokenomics.md)
 
 ## Products

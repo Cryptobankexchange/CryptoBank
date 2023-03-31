@@ -14,16 +14,16 @@ _Crypto Bank will have a transaction fee of only 2%, which can be a great advant
 * _Greater security: Cryptocurrency transactions are protected by advanced encryption technology and are generally more secure than traditional transactions. This can help reduce the risk of fraud and theft._
 * _Global access: Since cryptocurrencies are decentralized and not controlled by governments or traditional financial institutions, they can be used worldwide without restrictions. This can help make the Crypto Bank project an attractive option for people who do not have access to traditional banking services or who want to make international transactions._
 
-_In summary, Crypto Bank with a 1% transaction fee can offer significant advantages over traditional financial services, including lower costs, faster processing, greater security, and global access. However, it is important to remember that all cryptocurrency transactions involve risks, and users should be aware of these risks before deciding to use Crypto Bank or any other cryptocurrency service._
+_In summary, Crypto Bank with a 2% transaction fee can offer significant advantages over traditional financial services, including lower costs, faster processing, greater security, and global access. However, it is important to remember that all cryptocurrency transactions involve risks, and users should be aware of these risks before deciding to use Crypto Bank or any other cryptocurrency service._
 
 | CryptoBank - Exchange | CBEK                         |
 | --------------------- | ---------------------------- |
 | Token Name            | CryptoBank - Hybrid Exchange |
-| Token Symbol          | _CBEK_                       |
+| Token Symbol          | _CBEX_                       |
 | Token Decimals        | 18                           |
-| Total Supply          | 1,000,000 _CBEK_             |
-| Tokens For Liquidity  | 380,000 _CBEK_               |
-| Soft Cap              | 50 BNB                       |
+| Total Supply          | 1,000,000 _CBEX_             |
+| Tokens For Liquidity  | 380,000 _CBEX_               |
+| Soft Cap              | 5 ETH                        |
 
 
 
@@ -38,4 +38,5 @@ _In summary, Crypto Bank with a 1% transaction fee can offer significant advanta
 | MARKETING           | 5,00%  |
 | FUTURE RELEASES     | 5,00%  |
 
-#### Transaction fees will be reverted to the staking pool to guarantee the rewards to our investors
+1% BUY - Reflection.  - 1% SELL -  Marketing&#x20;
+
