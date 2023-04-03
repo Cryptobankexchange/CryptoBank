@@ -29,8 +29,8 @@ _In summary, Crypto Bank with a 4% transaction fee can offer significant advanta
 
 | Distribution        | Amount |
 | ------------------- | ------ |
-| PRESALE             | 30%    |
-| LIQUIDITY           | 20%    |
+| PRESALE and LP      | 30%    |
+| BURNT               | 20%    |
 | CEX LISITING 1      | 10%    |
 | CEX LISTING 2       | 5%     |
 | AIRDROP             | 5%     |
