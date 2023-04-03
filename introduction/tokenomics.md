@@ -29,14 +29,14 @@ _In summary, Crypto Bank with a 2% transaction fee can offer significant advanta
 
 | Distribution        | Amount |
 | ------------------- | ------ |
-| PRESALE             | 38,00% |
-| LIQUIDITY           | 20,00% |
-| STAKING             | 10,00% |
-| CEX LISTING 1       | 5,00%  |
-| CEX LISTING 2       | 10,00% |
-| DEVELOPMENT PROJECT | 5,00%  |
-| MARKETING           | 5,00%  |
-| FUTURE RELEASES     | 5,00%  |
+| PRESALE             |        |
+| LIQUIDITY           | 51%    |
+| STAKING             |        |
+| CEX LISTING 1       |        |
+| CEX LISTING 2       |        |
+| DEVELOPMENT PROJECT |        |
+| MARKETING           |        |
+| FUTURE RELEASES     |        |
 
-1% BUY - Reflection.  - 1% SELL -  Marketing&#x20;
+2% BUY - Reflection.  - 2% SELL -  Marketing&#x20;
 
