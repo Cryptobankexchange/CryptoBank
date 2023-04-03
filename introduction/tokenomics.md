@@ -30,13 +30,14 @@ _In summary, Crypto Bank with a 4% transaction fee can offer significant advanta
 | Distribution        | Amount |
 | ------------------- | ------ |
 | PRESALE             | 30%    |
-| LIQUIDITY           | 25%    |
-| STAKING             | 10%    |
-| CEX LISTING 1       | 10%    |
+| LIQUIDITY           | 20%    |
+| CEX LISITING 1      | 10%    |
+| CEX LISTING 2       | 5%     |
 | AIRDROP             | 5%     |
 | DEVELOPMENT PROJECT | 10%    |
 | MARKETING           | 5%     |
-| POOL ALIENFI        | 5%     |
+| STAKING             | 10%    |
+| FUTURE RELEASES     | 5%     |
 
 2% BUY - Reflection.  - 2% SELL -  Marketing&#x20;
 
