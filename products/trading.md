@@ -31,7 +31,7 @@ Click on "Long" or "Short" to open a leverage position on the desired side.
 
 &#x20;
 
-Enter the trade size, equal to margin x leverage. For instance, a trade size of 30 ETH at 30x leverage will use 1 ETH from your wallet's actual balance (margin).
+Enter the trade size, equal to margin x leverage. For instance, a trade size of 30 BTC at 30x leverage will use 1 BTC from your wallet's actual balance (margin).
 
 &#x20;
 
@@ -43,13 +43,13 @@ Enter the trade size, equal to margin x leverage. For instance, a trade size of 
 
 **Profit & Loss**&#x20;
 
-Suppose you opened a 3 ETH position at 2000. If the market rises by 1%, your P/L will be:
+Suppose you opened a 3 BTC position at 2000. If the market rises by 1%, your P/L will be:
 
-3 ETH x 1% = 0.03 ETH
+3 BTC x 1% = 0.03 BTC
 
 If the market falls by 1%, your P/L will be:
 
-3 ETH x -1% = -0.03 ETH
+3 BTC x -1% = -0.03 BTC
 
 &#x20;
 
@@ -59,11 +59,11 @@ If the market falls by 1%, your P/L will be:
 
 Example
 
-\-> You have a 70 ETH long on BTC-USD at 10x leverage (7 ETH margin).
+\-> You have a 70 BTC long on BTC-USD at 10x leverage (7 BTC margin).
 
-\-> You submit a 50 ETH long on BTC-USD at 5x leverage (10 ETH margin).
+\-> You submit a 50 BTC long on BTC-USD at 5x leverage (10 BTC margin).
 
-\-> Your new position is 85 ETH long on BTC-USD with 15 ETH margin, i.e., 8.5x leverage. You've successfully added margin and reduced the leverage of your position.
+\-> Your new position is 85 BTC long on BTC-USD with 15 BTC margin, i.e., 8.5x leverage. You've successfully added margin and reduced the leverage of your position.
 
 &#x20;
 

@@ -11,14 +11,14 @@ coverY: 0
 * [x] Website development v1
 * [x] Partnership engagement
 * [x] Whitepaper
-* [x] Arbitrum ecosystem engagement
+* [x] BSC ecosystem engagement
 * [x] Audit and KYC on Pinksale
 * [ ] Mobile app
 
 ## **PHASE 2**
 
 * [x] Home referrals and lottery
-* [x] Partnership with ETH ecosystem projects (DeX, Oracles)
+* [x] Partnership with BSC ecosystem projects (DeX, Oracles)
 * [x] Fair launch on Pinksale
 * [x] Pancakeswap listing
 * [x] Listing on top DEXs

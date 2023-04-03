@@ -6,10 +6,8 @@ coverY: 0
 # 🏛 Security
 
 {% embed url="https://github.com/AnalytixAudit/Solidity/blob/main/20230330_Analytix%20Audit_CryptoBank%20Hybrid%20Exchange_Audit.pdf" %}
-_**AUDIT**_
+AUDIT
 {% endembed %}
-
-
 
 {% embed url="https://pinksale.notion.site/Cryptobank-KYC-Verification-594f1d2bd6884d2e9067e96bd1c6d7d4" %}
 _**KYC**_
