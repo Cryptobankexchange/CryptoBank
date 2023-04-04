@@ -10,13 +10,13 @@
 
 ## Products
 
-* [🏛 Trading](products/trading.md)
-* [🏛 Bridge](products/bridge.md)
 * [🏛 Staking](products/staking.md)
+* [🏛 Trading](products/trading.md)
 * [🏛 Lottery](products/lottery.md)
 * [🏛 APP Mobile](products/app-mobile.md)
 * [🏛 Referrals program](products/referrals-program.md)
 * [🏛 Artificial Inteligent](products/artificial-inteligent.md)
+* [🏛 Bridge](products/bridge.md)
 
 ## ABOUT THE PROJECT
 
